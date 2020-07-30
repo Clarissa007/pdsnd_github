@@ -19,7 +19,7 @@ def get_filters():
     print('Hello! Let\'s explore some US bikeshare data!')
 
     while True:
-        city = input("Would you like to see data for Chicago, New York or Washington?\n").lower()
+        city = input("Would you like to see data for Chicago, New York City or Washington?\n").lower()
         if city not in CITY_DATA:
             print("\nInvalid answer\n")
             continue
