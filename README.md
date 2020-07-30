@@ -14,5 +14,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-all by myself
+I confirm, that I did all of the tasks and projects included in the Nano Degree Course 'Udacity Data Analyses with Python' by myself.
 
