@@ -2,10 +2,10 @@
 2020-07-30
 
 ### Project Title
-Replace the Project Title
+Bikeshare
 
 ### Description
-Describe what your project is about and what it does
+The bikeshare project analyses the user behavior of people who share bikes in New York City, Chicogo and Washington
 
 ### Files used
 bikeshare.py
@@ -14,5 +14,5 @@ new_york_city.csv
 washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+all by myself
 
